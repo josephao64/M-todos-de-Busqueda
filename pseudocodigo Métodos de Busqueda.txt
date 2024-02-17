@@ -1,0 +1,45 @@
+---------------------------------------------------------------
+JOSEPH ISAAC ASENCIO ORTIZ 
+----------------------------------------------------------------
+Pseudocódigo de Búsqueda Secuencial:
+----------------------------------------------------------------
+
+Procedimiento BusquedaSecuencial(lista, valorBusqueda):
+    Para cada elemento en la lista hacer:
+        Si elemento es igual a valorBusqueda entonces
+            Devolver posición del elemento
+    Fin Para
+    Devolver -1  // Elemento no encontrado
+Fin Procedimiento
+
+
+
+
+----------------------------------------------------------------
+Pseudocódigo de Búsqueda Binaria:
+-----------------------------------------------------------------
+
+
+Procedimiento BusquedaBinaria(lista, valorBusqueda):
+    Ordenar(lista)  // Asegurarse de que la lista esté ordenada
+    
+    izquierda = 0
+    derecha = Longitud(lista) - 1
+
+    Mientras izquierda <= derecha hacer:
+        medio = (izquierda + derecha) / 2
+
+        Si lista[medio] es igual a valorBusqueda entonces
+            Devolver medio  // Elemento encontrado
+        Fin Si
+
+        Si lista[medio] < valorBusqueda entonces
+            izquierda = medio + 1  // Buscar en la mitad derecha
+        Sino
+            derecha = medio - 1  // Buscar en la mitad izquierda
+        Fin Si
+    Fin Mientras
+
+    Devolver -1  // Elemento no encontrado
+Fin Procedimiento
+
