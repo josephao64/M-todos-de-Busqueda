@@ -1,0 +1,16 @@
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\bin\Debug\Métodos de Busqueda.exe.config
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\bin\Debug\Métodos de Busqueda.exe
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\bin\Debug\Métodos de Busqueda.pdb
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\Métodos de Busqueda.csproj.AssemblyReference.cache
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\Métodos de Busqueda.csproj.SuggestedBindingRedirects.cache
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\MainWindow.g.cs
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\App.g.cs
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\Métodos de Busqueda_MarkupCompile.cache
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\Métodos de Busqueda_MarkupCompile.lref
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\MainWindow.baml
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\Métodos de Busqueda.g.resources
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\Métodos_de_Busqueda.Properties.Resources.resources
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\Métodos de Busqueda.csproj.GenerateResource.cache
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\Métodos de Busqueda.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\Métodos de Busqueda.exe
+C:\Users\isaac\Desktop\Métodos de Busqueda\Métodos de Busqueda\obj\Debug\Métodos de Busqueda.pdb

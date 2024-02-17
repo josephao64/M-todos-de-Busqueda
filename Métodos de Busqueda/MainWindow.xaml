@@ -1,0 +1,21 @@
+﻿<Window x:Class="Métodos_de_Busqueda.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Métodos_de_Busqueda"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Ingrese elementos separados por comas:" Margin="0,0,0,10"/>
+            <TextBox x:Name="inputTextBox" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Ingrese valor a buscar:" Margin="0,0,0,10"/>
+            <TextBox x:Name="searchTextBox" Margin="0,0,0,10"/>
+
+            <Button Content="Buscar Secuencialmente" Click="SearchSequentially_Click" Margin="0,0,0,10"/>
+            <Button Content="Buscar Binariamente" Click="SearchBinary_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
